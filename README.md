@@ -26,6 +26,7 @@ And you can use the artifacts like this:
         compile 'org.holoeverywhere:holoeverywhere:1.6.8'
         compile 'org.holoeverywhere:addon-preferences:1.6.8'
         compile 'org.holoeverywhere:addon-slider:1.6.8'
+        compile 'org.holoeverywhere:addon-roboguice:2.0'
         compile 'org.roboguice:roboguice:2.1-SNAPSHOT'
         compile 'com.sherlock:navigationdrawer:1.0-SNAPSHOT'
         compile 'com.facebook.android:facebook:3.5.2'
